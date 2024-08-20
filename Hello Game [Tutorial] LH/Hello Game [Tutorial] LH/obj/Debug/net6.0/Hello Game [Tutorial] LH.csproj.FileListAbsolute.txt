@@ -1,0 +1,27 @@
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Hello Game [Tutorial] LH.exe
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Hello Game [Tutorial] LH.deps.json
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Hello Game [Tutorial] LH.runtimeconfig.json
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Hello Game [Tutorial] LH.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Hello Game [Tutorial] LH.pdb
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.csproj.AssemblyReference.cache
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.AssemblyInfoInputs.cache
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.AssemblyInfo.cs
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.csproj.CoreCompileInputs.cache
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.sourcelink.json
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Ga.92248500.Up2Date
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\refint\Hello Game [Tutorial] LH.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.pdb
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\Hello Game [Tutorial] LH.genruntimeconfig.cache
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\obj\Debug\net6.0\ref\Hello Game [Tutorial] LH.dll
+D:\CIS580 Repos\Hello Game [Tutorial] LH\Hello Game [Tutorial] LH\bin\Debug\net6.0\Content\Cron.xnb
